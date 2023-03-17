@@ -94,6 +94,7 @@ const secondName = [
   "Bot",
   "Nuggo",
   "Nutter",
+  "Fluff",
 ];
 
 const content = document.querySelector("#content");
