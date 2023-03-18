@@ -67,6 +67,7 @@ const firstName = [
   "",
   "Fluffer",
   "Nutter",
+  "Chunker",
 ];
 const secondName = [
   "Doodle",
@@ -95,6 +96,8 @@ const secondName = [
   "Nuggo",
   "Nutter",
   "Fluff",
+  "Monster",
+  "Nuffer",
 ];
 
 const content = document.querySelector("#content");
