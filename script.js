@@ -98,6 +98,7 @@ const secondName = [
   "Fluff",
   "Monster",
   "Nuffer",
+  "Muffin",
 ];
 
 const content = document.querySelector("#content");
